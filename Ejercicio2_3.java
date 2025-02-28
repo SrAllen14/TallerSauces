@@ -11,7 +11,7 @@ public class Ejercicio2_3{
 	public static void main(String[] args){
 		Scanner teclado=new Scanner (System.in);
 		int dividendo, divisor;
-		Syste.out.println("Introduzca dos numeros enteros positivos por teclado...");
+		System.out.println("Introduzca dos numeros enteros positivos por teclado...");
 		System.out.print("Primer numero (dividendo): ");
 		dividendo=teclado.nextInt();
 		System.out.print("Segundo numero(divisor): ");
